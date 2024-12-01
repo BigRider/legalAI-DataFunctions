@@ -1,6 +1,3 @@
-Para tornar a definição do seu repositório mais profissional, você pode incluir informações claras e detalhadas sobre o propósito, funcionalidades, requisitos, e instruções de uso. Aqui está uma versão melhorada:
-
----
 
 ## **LegalAI-Functions**
 
